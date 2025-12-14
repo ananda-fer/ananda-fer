@@ -14,4 +14,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![anime](https://tenor.com/view/black-clover-licht-eyes-oiel-mal%C3%A9fique-du-cr%C3%A9puscule-gif-23498146)
+![](https://tenor.com/bKK6w.gif)
