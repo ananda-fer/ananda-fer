@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ananda</h1>
+<h1 align="center">Hello👋, I'm Ananda</h1>
+![nanda](anandaBG.png)
 <h3 align="center">Welcome to my GitHub Profile</h3>
 
 # 💫 About Me
