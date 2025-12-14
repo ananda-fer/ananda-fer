@@ -14,4 +14,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![atomic](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycHlodDJ3dTV5c2N1d215eTd4M3B1cG1jd2M2ejkydGl1dm9uYjBhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif)
+![](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyemd6am10aHptaTUxanFnZTZxdzF0dWY0aXVta3ZnMXBiMG5ic2RzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif)
