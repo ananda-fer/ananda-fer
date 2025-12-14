@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyemd6am10aHptaTUxanFnZTZxdzF0dWY0aXVta3ZnMXBiMG5ic2RzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" width="100%">
+</p>
+
 # 💫 About Me:
 🎓 Informatics Student (2024) at University Singaperbangsa Karawang, Indonesia<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
