@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nand</h1>
+<h1 align="center">Hi 👋, I'm Ananda</h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
 
 # 💫 About Me
