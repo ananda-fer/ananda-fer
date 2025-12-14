@@ -5,10 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nanddd.03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@anandafahrizal5711) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananda.fahrizal00@gmail.com) 
 
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="50%">
-</p>
-
-<p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyemd6am10aHptaTUxanFnZTZxdzF0dWY0aXVta3ZnMXBiMG5ic2RzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" width="50%">
 </p>
 
@@ -20,3 +16,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<br><br>
+</div>
