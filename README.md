@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyemd6am10aHptaTUxanFnZTZxdzF0dWY0aXVta3ZnMXBiMG5ic2RzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" width="80%" height="25%">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyemd6am10aHptaTUxanFnZTZxdzF0dWY0aXVta3ZnMXBiMG5ic2RzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" width="50%">
 </p>
 
 # 💫 About Me:
@@ -17,5 +17,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyemd6am10aHptaTUxanFnZTZxdzF0dWY0aXVta3ZnMXBiMG5ic2RzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif)
