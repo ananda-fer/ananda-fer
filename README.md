@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nand;Welcome+to+my+GitHub">
+</p>
+
+
 # 💫 About Me
 🎓 Informatics Student (2024) at University Singaperbangsa Karawang, Indonesia<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
