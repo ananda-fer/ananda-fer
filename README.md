@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-</p>
-
 <h1 align="center">Hi 👋, I'm Nand</h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
-
-
 
 # 💫 About Me
 🎓 Informatics Student (2024) at University Singaperbangsa Karawang, Indonesia<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
