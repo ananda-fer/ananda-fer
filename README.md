@@ -1,5 +1,7 @@
 <h1 align="center">Hello👋, I'm Ananda</h1>
-![nanda](anandaBG.png)
+
+![](anandaBG.png)
+
 <h3 align="center">Welcome to my GitHub Profile</h3>
 
 # 💫 About Me
