@@ -14,4 +14,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![](https://tenor.com/bKK6w.gif)
+<div class="tenor-gif-embed" data-postid="23498146" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/black-clover-licht-eyes-oiel-mal%C3%A9fique-du-cr%C3%A9puscule-gif-23498146">Black Clover Licht GIF</a>from <a href="https://tenor.com/search/black+clover-gifs">Black Clover GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
