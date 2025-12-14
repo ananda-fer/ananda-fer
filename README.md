@@ -17,10 +17,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div>
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif" width="500">
-<br><br>
-</div>
-
-![coding gif](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif)
-
+![gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
