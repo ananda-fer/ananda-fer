@@ -16,5 +16,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
