@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=600&lines=Hi,+I'm+Nand;Welcome+to+my+GitHub">
-</p>
+<h1 align="center">Hi 👋, I'm Nand</h1>
+<h3 align="center">Welcome to my GitHub Profile</h3>
+
 
 
 # 💫 About Me
