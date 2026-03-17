@@ -26,5 +26,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Snake animation](https://githubusercontent.com)
-
+<img src="https://raw.githubusercontent.com/ananda-fer /ananda-fer /output/snake.svg" alt="Snake animation" />
