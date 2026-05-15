@@ -36,6 +36,16 @@
 - 📊 Network Analysis: Wireshark, tcpdump, Aircrack-ng
 - 🔨 Custom Security Tools Development
 
+# 🚩 CTF Platforms & Writeups
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%23A4C639.svg?style=for-the-badge&logo=HackTheBox&logoColor=white)](https://app.hackthebox.com/users/YOUR_HTB_ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212738.svg?style=for-the-badge&logo=TryHackMe&logoColor=red)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+
+**Categories I enjoy solving:**
+- 🌐 **Web Exploitation** (Injection, XSS, CSRF)
+- 🧩 **Cryptography** (Classic Ciphers, RSA, Symmetric/Asymmetric Encryption)
+- 🕵️‍♂️ **Forensics & OSINT** (Log Analysis, Packet Inspection, Steganography)
+- ⚙️ **Reverse Engineering / Pwn** (Basic Binary Analysis, Assembly)
+
 # 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
