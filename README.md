@@ -27,9 +27,9 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Security Tools & Frameworks:**
+- 🌐 Reconnaissance & Asset Discovery: Subfinder, Katana, httpx, Nmap
 - 🛡️ Penetration Testing: Metasploit, Burp Suite, Wireshark, Nmap
 - 🔍 Vulnerability Scanning: OWASP ZAP, Qualys, Nikto
 - 🔐 Cryptography & Hashing: OpenSSL, Hashcat
